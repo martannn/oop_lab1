@@ -1,0 +1,4 @@
+﻿  main.cpp.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe" exited with code 1120.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Марта\source\repos\main.cpp\x64\Debug\main.cpp.exe : fatal error LNK1120: 1 unresolved externals
